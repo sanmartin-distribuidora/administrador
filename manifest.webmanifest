@@ -1,0 +1,26 @@
+{
+  "name": "Administrador San Martín",
+  "short_name": "Admin San Martín",
+  "description": "Administrador del catálogo de San Martín Distribuidora Ecológica.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0B2A52",
+  "theme_color": "#0B2A52",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
